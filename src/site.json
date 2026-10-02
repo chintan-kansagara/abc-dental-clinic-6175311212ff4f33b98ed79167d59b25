@@ -1,0 +1,25 @@
+{
+  "businessName": "ABC Dental Clinic",
+  "category": "Dental clinic",
+  "location": "Ahmedabad",
+  "phone": null,
+  "email": null,
+  "theme": "clinical",
+  "headline": "A considered approach to your care.",
+  "description": "Discover ABC Dental Clinic, your local dental clinic in Ahmedabad. Contact the team to learn more.",
+  "cta": "Contact the clinic",
+  "sections": [
+    {
+      "id": "discover",
+      "title": "Your care starts with a conversation",
+      "description": "Talk to the ABC Dental Clinic team about what you are looking for. We will help you find the right next step.",
+      "items": []
+    },
+    {
+      "id": "visit",
+      "title": "Visit us in Ahmedabad",
+      "description": "Get in touch for directions, availability and more information before your visit.",
+      "items": []
+    }
+  ]
+}
